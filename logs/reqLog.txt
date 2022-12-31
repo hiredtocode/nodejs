@@ -69,3 +69,16 @@
 20221231	16:42:22	5fb3b0ac-93cb-4d70-af51-eb82b71e610b	PUT	undefined	/employees
 20221231	16:43:59	93eea532-9878-4c7f-8917-018a869404a8	DELETE	undefined	/employees
 20221231	16:44:16	90199d32-a4a8-474f-86ac-fb71a2a87106	PUT	undefined	/employees
+20221231	19:13:05	0c2ea167-83ae-463e-b32a-dee224e4518a	GET	undefined	/register
+20221231	19:13:22	848f6abb-4002-47d2-bd34-95d158775bfe	GET	undefined	/register
+20221231	19:17:36	417bad1e-92d2-4e03-927b-6f96b6c53b42	POST	undefined	/register
+20221231	19:17:45	2a659bc3-d4b1-4f37-9b2d-c323543595b6	POST	undefined	/register
+20221231	19:20:18	341ab04d-c8ba-4a28-9135-ced73a3cb3f3	POST	undefined	/register
+20221231	19:20:25	bc8a7539-5b28-44c3-adc9-83339f3c3827	POST	undefined	/register
+20221231	20:00:54	b193c8da-fdda-4530-b119-d38146fd82f3	POST	undefined	/register
+20221231	20:01:04	59fb90c0-d830-4542-bba6-9648ee8f84e1	POST	undefined	/auth
+20221231	20:01:14	a1e8aed0-a102-4f3a-91ec-0c9a73d7b77a	POST	undefined	/auth
+20221231	20:02:08	3e5d7a25-a545-4e7a-98dc-c475f8c3d50d	POST	undefined	/auth
+20221231	20:02:13	de3317e1-f10f-4c0b-a4d7-71f3d19c93fe	POST	undefined	/auth
+20221231	20:02:49	0596d576-d24b-4e20-9315-f4799c925c70	POST	undefined	/register
+20221231	20:02:53	52c93f61-a70f-4640-a868-0ee6b88d1759	POST	undefined	/register
