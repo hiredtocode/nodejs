@@ -1,14 +1,11 @@
 {
 	"name": "nodejs",
 	"version": "1.0.0",
-	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index",
-		"dev": "nodemon index"
+		"start": "node server.js",
+		"dev": "nodemon server.js"
 	},
-	"keywords": [],
-	"author": "Jason Han (https://github.com/hiredtocode)",
 	"license": "ISC",
 	"dependencies": {
 		"date-fns": "^2.29.3",
