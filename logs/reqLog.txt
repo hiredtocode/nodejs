@@ -62,3 +62,10 @@
 20221231	16:03:01	821d53e7-d583-4f8e-b000-1bc972a38370	GET	undefined	/css/style.css
 20221231	16:03:04	e05d8693-69fd-4fc9-87eb-4fb5c6213a7f	GET	undefined	/
 20221231	16:03:04	264c2da7-be7a-4954-8884-e65a1279e04d	GET	undefined	/css/style.css
+20221231	16:40:56	042f8886-89d3-42f1-9373-6e9302baae99	GET	undefined	/employees/1
+20221231	16:41:23	9ebde2a4-2ab6-4d20-9b81-91fe1f35f01c	GET	undefined	/employees/
+20221231	16:41:54	9a47c165-1908-41c6-a636-3430ce0e4885	GET	undefined	/employees/
+20221231	16:42:02	fa4ccecb-a541-4208-b87b-ac647945edf0	POST	undefined	/employees
+20221231	16:42:22	5fb3b0ac-93cb-4d70-af51-eb82b71e610b	PUT	undefined	/employees
+20221231	16:43:59	93eea532-9878-4c7f-8917-018a869404a8	DELETE	undefined	/employees
+20221231	16:44:16	90199d32-a4a8-474f-86ac-fb71a2a87106	PUT	undefined	/employees
